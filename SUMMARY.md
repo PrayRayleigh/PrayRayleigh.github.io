@@ -2,12 +2,15 @@
 
 * [Rayleigh's Blog](README.md)
 ## 数学
-- [知识框架](math/math.md)
+- [杂七杂八](everything/everything.md)
+  - [About this blog](everything/init.md)
 ## Falgs
-- [读书清单](books/read.md)
-- [学习清单](books/learn.md)
+- [Flags](Flags/flags.md)
+   - [读书清单](Flags/read.md)
+   - [学习清单](Flags/learn.md)
 ## 生活
-- [美食分享](life/food-recepi.md)
+- [生活](life/life.md)
+    -[食谱](life/food.md)
 ## 关于
 - [个人简介](about/aboutme.md)
 

@@ -1,3 +1,21 @@
 {"plugins": [
-    "advanced-emoji","-lunr", "-search", "search-pro","chapter-fold","splitter"
-]}
+    "advanced-emoji","mathjax-pro","-lunr", "-search", "search-pro","chapter-fold","splitter","-sharing", "sharing-plus", "-highlight", 
+    "prism"
+    
+],
+"pluginsConfig": {
+    "sharing": {
+         "douban": false,
+         "facebook": false,
+         "google": true,
+         "pocket": false,
+         "qq": false,
+         "qzone": true,
+         "twitter": false,
+         "weibo": true,
+      "all": [
+           "douban", "weibo",  "messenger","qq", "qzone"
+       ]
+   }
+  
+}}
