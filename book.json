@@ -1,21 +1,25 @@
 {"plugins": [
     "advanced-emoji","mathjax-pro","-lunr", "-search", "search-pro","chapter-fold","splitter","-sharing", "sharing-plus", "-highlight", 
-    "prism"
+    "prism","insert-logo"
     
 ],
 "pluginsConfig": {
     "sharing": {
-         "douban": false,
-         "facebook": false,
-         "google": true,
-         "pocket": false,
-         "qq": false,
-         "qzone": true,
-         "twitter": false,
-         "weibo": true,
-      "all": [
-           "douban", "weibo",  "messenger","qq", "qzone"
-       ]
-   }
-  
-}}
+        "douban": false,
+        "facebook": false,
+        "google": true,
+        "pocket": false,
+        "qq": false,
+        "qzone": true,
+        "twitter": false,
+        "weibo": true,
+    "all": [
+        "douban", "weibo",  "messenger","qq", "qzone"
+    ]
+},
+"pluginsConfig": {
+"insert-logo": {
+        "url": "charliebrown.png",
+        "style": "background: none; max-height: 100px; min-height: 30px"
+    }
+}}}
