@@ -9,7 +9,7 @@ $$f(x) = x * e^{2 pi i \xi x}$$
       #include "iostream"
       using namespace std;
       int main(){
-        cout>>"helloworld">>endl;
+        cout<<"helloworld"<<endl;
         return 0;
       }
   ?>
