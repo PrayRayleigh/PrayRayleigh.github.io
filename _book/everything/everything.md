@@ -4,13 +4,13 @@
 
 $$f(x) = x * e^{2 pi i \xi x}$$
 # code support
-  ```cpp
-  <?cpp
+>
+```cpp
+  
       #include "iostream"
       using namespace std;
       int main(){
         cout<<"helloworld"<<endl;
         return 0;
       }
-  ?>
-  下次再做吧 
+```
