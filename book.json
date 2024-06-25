@@ -1,6 +1,6 @@
 {"plugins": [
-    "advanced-emoji","mathjax-pro","-lunr", "-search", "search-pro","chapter-fold","splitter","-sharing", "sharing-plus", "-highlight", 
-    "prism"
+    "advanced-emoji","mathjax-pro","-lunr", "-search", "search-pro","chapter-fold","splitter","-sharing", "sharing-plus", "highlight", 
+    "prism","prism-themes","code","gtalk"
     
 ],
 "pluginsConfig": {
@@ -16,5 +16,23 @@
     "all": [
         "douban", "weibo",  "messenger","qq", "qzone"
     ]
-	
-}}}
+    },
+    "prism": {
+        "css": [
+            "prismjs/themes/prism-darcula.css"
+        ]},
+    "gtalk": {
+            "clientID": "Ov23liupAc1AcZbp83k7"
+            ,
+            "clientSecret": "b7ed50184ef95453286868e464516ffc28690f79",
+            "repo": "GitHub repo",
+            "owner": "PrayRayleigh",
+            "admin": ["GitHub repo owner and collaborators, only these guys can initialize github issues"]
+        }
+    
+    }
+    
+    
+    
+    
+}

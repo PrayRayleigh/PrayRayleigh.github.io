@@ -4,7 +4,6 @@
 
 $$f(x) = x * e^{2 pi i \xi x}$$
 # code support
->
 ```cpp
   
       #include "iostream"
