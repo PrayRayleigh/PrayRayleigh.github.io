@@ -1,6 +1,6 @@
 {"plugins": [
     "advanced-emoji","mathjax-pro","-lunr", "-search", "search-pro","chapter-fold","splitter","-sharing", "sharing-plus", "-highlight", 
-    "prism","insert-logo"
+    "prism"
     
 ],
 "pluginsConfig": {
@@ -16,10 +16,5 @@
     "all": [
         "douban", "weibo",  "messenger","qq", "qzone"
     ]
-},
-"pluginsConfig": {
-"insert-logo": {
-        "url": "charliebrown.png",
-        "style": "background: none; max-height: 100px; min-height: 30px"
-    }
+	
 }}}
