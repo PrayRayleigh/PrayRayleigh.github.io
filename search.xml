@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/10/21/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+<p>你好，世界！<br>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2024/10/21/test/</url>
+    <content><![CDATA[<p>hello!</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>老人与海-自我的存在和意义的寻求</title>
+    <url>/2024/10/22/%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7-%E6%B5%B7%E6%98%8E%E5%A8%81/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>Reading</tag>
+        <tag>Thinking</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>閱讀和寫作的重要性</title>
+    <url>/2024/10/22/Reading-Writing/</url>
+    <content><![CDATA[<p>阅读和写作就是一个很好的培养思维能力的方式，通过仔细的阅读，能够获得很多基本的思维素材，很多优秀的，触及本质的观点会让人愈发明朗。而写作，也就是表达，在当下比阅读更重要。一个人的思维，在他写的东西中体现得非常具体。写作本身也是一个整理思绪，训练思维的过程，就像是牛的反刍和消化。</p>
+<p>所谓文笔，实际上就是思维的深度和结构，一个条理清晰的人必然不会写出又臭又长的文章。</p>
+<p>一篇文章结构混乱也能说明作者实际上思绪乱飞，对自己的思维没有什么整理。所幸的是通过不断的练习，文章必能精简，观点必能清晰，个人必能提升。</p>
+]]></content>
+      <tags>
+        <tag>Reading</tag>
+        <tag>Thinking</tag>
+      </tags>
+  </entry>
+</search>
